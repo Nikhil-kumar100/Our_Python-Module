@@ -32,7 +32,7 @@ Module/ │  ├─ my_module.py ├─ p1.py ├─ README.md
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/username/Our_Python-Module.git
+   git clone https://github.com/Nikhil-kumar100/Our_Python-Module.git
 
 
 
